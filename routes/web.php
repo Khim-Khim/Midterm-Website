@@ -27,9 +27,10 @@ Route::get('lienhe',[
 ]);
 Route::get('Review-chuyen-di',[
     'as'=>'Reviewchuyendi',
-    'uses'=> 'ReviewController@getReview'
-
+    'uses'=> 'ReviewController@getReview',
+    
 ]);
+
 Route::get('Tip-di-phuot',[
     'as'=>'Tipdiphuot',
     'uses'=> 'TipController@getTip'

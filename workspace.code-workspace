@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"name": "logindata",
+			"path": "..\\logindata"
+		},
+		{
+			"name": "Việt-Nam",
+			"path": "..\\Việt-Nam"
+		},
+		{
+			"name": "php-mvc-master",
+			"path": "..\\php-mvc-master"
+		},
+		{
+			"name": "lava_blog",
+			"path": "..\\lava_blog"
+		},
+		{
+			"name": "cuoikiweb",
+			"path": "E:\\Tổng Hợp toát mồ hôi\\cuoikiweb"
+		},
+		{
+			"name": "ch13_cart",
+			"path": "..\\book_apps\\ch13_cart"
+		},
+		{
+			"name": "dienthoai",
+			"path": "..\\dienthoai"
+		},
+		{
+			"name": "learnjs",
+			"path": "E:\\HOC NAM 2\\LAPTRINHWEB\\learnjs"
+		},
+		{
+			"name": "register",
+			"path": "E:\\HOC NAM 2\\LAPTRINHWEB\\javascriplearn\\register"
+		},
+		{
+			"name": "blog",
+			"path": "E:\\HOC NAM 2\\LAPTRINHWEB\\nodejs\\blog"
+		},
+		{
+			"path": "E:\\HOC NAM 2\\LAPTRINHWEB\\newlaravel"
+		},
+		{
+			"path": "..\\loginsecssion"
+		},
+		{
+			"path": "..\\cuoiky"
+		},
+		{
+			"path": "..\\..\\cuoiki"
+		},
+		{
+			"path": "..\\ch07_ex2"
+		},
+		{
+			"path": "..\\..\\..\\..\\Users\\ADMIN\\Downloads\\giuaki"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "register"
+	}
+}
